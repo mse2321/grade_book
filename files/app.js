@@ -28,7 +28,7 @@ var demo = angular.module('demo', ['ngRoute']);
         .otherwise('/error',  {
           template: '<p>Error - Page Not Found</p>'
         });
-      }])
+     }])
 
 
 demo.controller('ctrl', function(){
