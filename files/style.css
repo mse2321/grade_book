@@ -1,8 +1,3 @@
-body {
-	font-family: 'Arial', sans-serif;
-}
+body { font-family: 'Arial', sans-serif; }
 
-#intro_wrap {
-	background-color: green;
-	color: white;
-}
+#intro_wrap { background-color: green; color: white; text-align: center; }

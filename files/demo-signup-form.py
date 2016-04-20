@@ -324,7 +324,7 @@ class deleteData(webapp2.RequestHandler):
 intro_html = '''
   <style>
     body { font-family: 'Arial', sans-serif; }
-    #intro_wrap { background-color: green; color: white; }
+    #intro_wrap { background-color: green; color: white; text-align: center; }
   </style>
   <div id="intro_wrap">
 
